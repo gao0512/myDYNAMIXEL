@@ -1,0 +1,2 @@
+dynamixel_sdk_examples
+-DCATKIN_DEVEL_PREFIX=/home/gao/myDYNAMIXEL/devel -DCMAKE_INSTALL_PREFIX=/home/gao/myDYNAMIXEL/install -G Unix Makefiles
